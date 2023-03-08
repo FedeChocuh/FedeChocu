@@ -56,17 +56,3 @@
 </td>
 </table>
 
-<table align="center">
-  <td>
-<p slign="center">
-<img src="https://web.archive.org/web/20091027091817im_/http://geocities.com/sovereigngracecc/Email.gif">
-  </p>
-  <br/>
-    <a href="https://twitter.com/FedeChocuh"><strong>Twitter</strong></a>
-    <a href="Discord"><a></a>
-    <p slign="center">
-<img src="https://web.archive.org/web/20091027091817im_/http://geocities.com/sovereigngracecc/Email.gif">
-  </p>
-  </td>
-
-</table>
